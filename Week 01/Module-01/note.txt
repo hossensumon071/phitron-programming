@@ -1,0 +1,14 @@
+What is a computer?
+
+.A machine that computes something 
+.Tasks:
+    -Accept data/input
+    -process data
+    -Produce output/result
+    -Store result
+.usage:
+    -Writing documents
+    -browse the intrnet
+    -Send emails
+    -Play games
+    -ANd many more ..!
