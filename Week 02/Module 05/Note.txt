@@ -1,0 +1,46 @@
+.GCD - Greatest common Divisor
+.গ.সা.গু - গরিষ্ঠ সাধারন গুননীয়ক
+.Divisor
+.Common Divisor
+.Greatest common Divisor
+.Example: Find the gcd of 15 and 6
+    - Divisors of 15: 1, 3, 5, 15;
+    - Divisor of 6: 1, 2, 3, 6;
+    - Common divisors: 1, 3;
+    - GCD: 3
+
+
+.Simple way to find gcd(a, b)
+    -Take i to be 1 to minimum(a, b)
+        .Check if i divides both a and b
+        .Largest such i is the gcd
+    -Just like the naive method we learned for finding divisors
+        .Too many unnecessary calculations
+
+.Lets learn a clever way - The Euclidean Algorithm
+
+
+
+.gcd(a,b) = gcd(b, a % b)
+.gcd(p, 0) = gcd(0, p) = p
+.example: gcd(15, 6) = gcd(6, 3) = gcd(3, 0) = 3
+.changing order does not matter
+
+
+
+LCM - Least common multiple 
+. ল.সা.গু - লগিষ্ট সাধারন গুনিতক 
+. Multiple 
+. Common multiple Least common multiple 
+. Example: Find the 1cm of 15 and 6
+            - Multiples of 15: 15, 30, 45, 60
+            - Multiples of 6: 6, 12, 18, 24, 30, 36, 42, 48, 54, 60
+            - Common multiples: 30, 60
+            - LCM: 30
+
+.Simple way to find lcm(a, b)
+    -Take multiples of the larger number and see if the smaller one divides it 
+    - Computation heavy
+
+.Or you may find it using gcd:
+    .gcd(a,b)*lcm(a,b) = a*b

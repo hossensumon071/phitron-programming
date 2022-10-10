@@ -1,0 +1,34 @@
+Floor - Nearest integer below
+Ceiling - Nearest integer above
+Round - Nearest integer
+
+Divisor Counting
+    .Problem statement: Given an integer n. How many divisors are there for n?
+            .You knwo the answer if n is a prime, right?
+                -Example: 3, 11, 73 etc
+            .WHat about if it is not a prime number? how do yo count divisions?
+
+
+Divisor Counting - Naive
+    .Take all the integers (1 to n) and test if remainder is 0 
+        -example: Lets take 12
+        -The divisors: 1,2,3,4,6,12
+        -Number of divisors: 6
+
+
+Divisor Counting - Better?
+    .We already know 1 and will be there!
+    .so 2 to (n - 1) need to be tested.
+    .But ...look at the second half?
+    .We only need to check for 2 to n/2
+    .what about odd n?
+
+
+Divisor Counting - Even Better?
+
+
+Primality test
+    .Problem statement: Given an integer n. Determine if n is a prime number or not?
+        .You already know divisor Counting
+        .Take numbers from 2 to 2square
+            -if any of them divide n, NOT prime
