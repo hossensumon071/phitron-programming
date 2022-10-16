@@ -1,0 +1,103 @@
+POINT
+    .Just a dot
+    .Location only
+    .No length, width, shape, size
+
+LINE
+    .Two different points
+    .Connect them
+    .Take the straight path
+        -Also the shortest
+        -
+    .This is called line sagement
+        -Finite length
+    .Line: extended in both ends
+        -Infinte length
+    .Ray: extended in one end 
+        -infinite length
+
+
+COORDINATE SYSTEM
+    .How do you navigate in real life?
+        -Reference point, directions, distance etc
+    .How to identify a point in space?
+        -Coordinate System!
+        -Remember number Line? One-dimensional coordinate System.
+
+
+    .2D coordinate System
+    
+
+
+TRIANGLE 
+    .3 points and 3 line sagements
+    .Sum of three angles = 180 degree
+    .Area = 1/2 * base * height
+    .Based on equality between sides
+        -Equilateral
+        -Isosecles
+        -Scalene
+
+SQUARE 
+    .4 points and 4 line sagements
+    .All sides are equal
+    .Each angle is 90 degree
+    .Sum of four angles i 360 degree
+    .Area: (side_length) SQUARE
+    .length of diagonal: square 2 * (side length)
+
+
+.Pythagorean theorem
+    - c square = a square + b square
+.Right-angle triangle and square 
+.example: 
+    
+
+RECTANGLE
+    .4 points and 4 line segements
+    .Opposite sides are equal
+    .Each angle is 90 degree
+    .Sum of four angles is 360 degree
+    .Area: length * height
+
+
+CIRCLE
+    .Center
+    .Radius
+    .Diameter
+    .Area = pie * (radius) square 
+
+
+SERIES
+    .Sequense List of numbers with some order or pattern
+        -1,3,5,7,9
+        -1,1,2,3,5,8,13.....
+
+    .Series: sum of elements in a sequence
+        s1 = 1 + 3 + 5 + 7 + 9;
+        s2 = 1 + 1 + 2 + 3 + 5 + 8 + 13 + ....
+
+    .Finite vs Infinite series 
+    .Arithmetic vs Geometric series
+
+
+
+1+2+3+...+N = ?
+
+s = 1+2+3+.....N
+s = N + (N-1) + (N-2)+ ... + 1
+
+(+).2s = (N + 1) + (N + 1) + (N + 1) + .... + (N + 1)
+2s = N*(N+1)
+s = N*(N+1) / 2
+
+
+SERIES (FINITE SUM)
+
+.Arithmetic series
+    s = 2+5+8
+    find the 100th number in the series
+    Find the sum of first 100 numbers
+
+
+.nth term Arithmetic series : a+(n-1)*d 

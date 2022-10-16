@@ -1,0 +1,87 @@
+Problem: you and your 6 friends went to a resturent. All ordered the same meal, and the total bill was 1218 taka. Now if you go there with your 2 best friends and have the same meal, what would be the bill this time?
+
+
+UNITARY METHOD
+.Tom finishes his homework within 15 hours while jerry takes 10 hours.how many hours will the same homework take to be done if they work together ?
+
+idea: How is their performance per hour?
+.Toms 15 hour of work === 1 homework
+    -Toms 1 hour of  === 1/15 homework
+
+.jerrys 10 hour of work === 1 homework
+    -jerrys 1 hour of work === 1/10 homework 
+
+
+.Tom and jerrys 1 hour of work combined === (1/15 + 1/10) homework = 1/6 homework
+
+
+
+PERCENTAGE
+.per hundred quantity
+.Scaling reference to 100
+.Example 
+    -You gave a test on 40 marks. Your score was 32
+    -what would be the score if the test was taken with 100 marks?
+    -May use unitary method
+        .Out of 40 your score = 32
+        .Out of 1 your score = 32/40
+        .out of 100 your score = (32/40) * 100 = 80
+        .This is per hundred quantity, therefore, percentage
+        .You got 80% marks (see how we avoid mentioning the marks!)
+
+You may just multiply the ratio with 100% (= 100*1/100 = 1)
+    . 32/40 * 100% = 80%
+
+
+
+PERCENTAGE Problem
+1. A clothing store is selling one of their most popular products at 870 tk after 40% discount. what was the original price?
+
+.what we dont know is the original price 
+.Let it be x
+.the discount price = x*(100-40)% = x*60/100 = 870
+.the original price 
+    x = 870*100/60 = 1450
+
+
+2. The price of oil increased by 25% and then decreased by 15%. what is the net percentageof increased or decreased oil price?
+
+.we dont know the initial value 
+.lets assume the initial price was 100
+.increase by 25% updated price = 125
+.Decreased by 15%
+    -Price gets reduced to 85%
+    -Updated price = 125 * 85% = 125 * 85/100 = 106.25
+
+.Final price is more than 100 
+.Net increase (106.25 - 100) = 6.25 if the original price was 100 (per hundred)
+.answer: increased by 6.25%
+
+
+CAPITAL AND INTEREST
+    .Capital 
+    .Interest
+    .Interest rate
+        -Per 100 taka 
+        -per 1 year (3 months, 6 month are also common)
+    .Simple interest vs compund interest 
+    .Simple interest
+        - I = P*n*r
+        - interest = capital * time unit * interest rate
+
+SIMPLE INTEREST
+
+1 .Your friend deposits 700 tk in shonali bank for 3 years which earn him an interest of 8% what is the amount he gets after 3 years?
+
+i=?, p = 700
+     n = 3,
+     r = 8%
+
+
+2. You deposite 5400 tk and got back an amount of 6000 tk after 2 years. Find the simple interest rate of the bank.
+
+I = 6000, p = 5400, n = 2, r = ? 
+
+
+
+MEAN & MEDIAN
