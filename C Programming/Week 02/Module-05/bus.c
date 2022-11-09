@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int main()
 
@@ -8,7 +8,7 @@ int main()
     printf("Enter the number of passenger:  ");
     scanf("%d", &n);
 
-    for(i=0; i<=n; i++)
+    for (i = 0; i <= n; i++)
     {
         scanf("%d", &w);
         sum += w;
